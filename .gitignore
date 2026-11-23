@@ -1,0 +1,36 @@
+# Build artifacts
+.build/
+*.xcodeproj/
+*.xcworkspace/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Swift Package Manager
+Packages/
+Package.resolved
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# DerivedData
+DerivedData/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
